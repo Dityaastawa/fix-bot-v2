@@ -4,9 +4,9 @@ let pp = await conn.profilePictureUrl(m.chat).catch(_ => null)
 
 let str = `*https://youtube.com/channel/UCxkIPWS8gVxomQTVWxetdSg*
 
-Pengen mentahan nya ?
-Nih ada santai bro....
-https://github.com/Dityaastawa
+Pengen scriptnya nya ?
+Nih chat WA....
+wa.me/6285237596750
 
 Mau Yang No Error Script Bot nya, Gas Cek Video YT :
 -
